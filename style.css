@@ -13,7 +13,7 @@ body{
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(red, green, blue, alpha) (0,0,0,0.1);
+    box-shadow: 0 0 10px rgba (0, 0, 0, 0.1);
     width: 300px;
 }
 
@@ -28,7 +28,7 @@ h1{
 }
 
 #todo-input{
-    flex:1;
+    flex: 1;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
