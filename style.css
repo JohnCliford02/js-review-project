@@ -10,7 +10,7 @@ body{
 }
 
 .container{
-    background-color: #fff;
+    background-color: #83bbbb;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba (0, 0, 0, 0.1);
@@ -37,7 +37,7 @@ h1{
 
 button{
     padding: 10px 15px;
-    background-color: #28a745;
+    background-color: #0adbb8;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -71,7 +71,7 @@ button:hover{
 }
 
 .todo-item button{
-    background-color: #dc3545;
+    background-color: #3835dc;
     border:none;
     color: #fff;
     padding: 5px 10x;
